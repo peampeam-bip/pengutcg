@@ -11,11 +11,174 @@
   "collections": [
     {
       "id": "base",
-      "name": "Collection de base"
+      "name": "Les Pingouins"
     }
   ],
-  "cards": [],
-  "cardBack": "data/img/card-back-mvtxlchq.webp",
+  "cards": [
+    {
+      "id": "p1",
+      "name": "Pingouin Banale",
+      "type": "Glace",
+      "rarity": 0,
+      "collection": "base",
+      "hp": 50,
+      "front": null
+    },
+    {
+      "id": "p2",
+      "name": "Pingouin Plombier",
+      "type": "Glace",
+      "rarity": 0,
+      "collection": "base",
+      "hp": 50,
+      "front": null
+    },
+    {
+      "id": "p3",
+      "name": "Pingouin Banane",
+      "type": "Glace",
+      "rarity": 0,
+      "collection": "base",
+      "hp": 50,
+      "front": null
+    },
+    {
+      "id": "p4",
+      "name": "Pingouin SDF",
+      "type": "Glace",
+      "rarity": 0,
+      "collection": "base",
+      "hp": 50,
+      "front": null
+    },
+    {
+      "id": "p5",
+      "name": "Pingouin Bourré",
+      "type": "Glace",
+      "rarity": 1,
+      "collection": "base",
+      "hp": 70,
+      "front": null
+    },
+    {
+      "id": "p6",
+      "name": "Pingouin Basketeur",
+      "type": "Glace",
+      "rarity": 1,
+      "collection": "base",
+      "hp": 70,
+      "front": null
+    },
+    {
+      "id": "p7",
+      "name": "Pingouin Footballeur",
+      "type": "Glace",
+      "rarity": 1,
+      "collection": "base",
+      "hp": 70,
+      "front": null
+    },
+    {
+      "id": "p8",
+      "name": "Pingouin Gamer",
+      "type": "Glace",
+      "rarity": 1,
+      "collection": "base",
+      "hp": 70,
+      "front": null
+    },
+    {
+      "id": "p9",
+      "name": "Pingouin Général",
+      "type": "Glace",
+      "rarity": 2,
+      "collection": "base",
+      "hp": 90,
+      "front": null
+    },
+    {
+      "id": "p10",
+      "name": "Pingouin Hacker",
+      "type": "Glace",
+      "rarity": 2,
+      "collection": "base",
+      "hp": 90,
+      "front": null
+    },
+    {
+      "id": "p11",
+      "name": "Pingouin Pizzaiolo",
+      "type": "Glace",
+      "rarity": 2,
+      "collection": "base",
+      "hp": 90,
+      "front": null
+    },
+    {
+      "id": "p12",
+      "name": "Pingouin Peintre",
+      "type": "Glace",
+      "rarity": 2,
+      "collection": "base",
+      "hp": 90,
+      "front": null
+    },
+    {
+      "id": "p13",
+      "name": "Pingouin Roi",
+      "type": "Glace",
+      "rarity": 3,
+      "collection": "base",
+      "hp": 120,
+      "front": null
+    },
+    {
+      "id": "p14",
+      "name": "Super Pingouin",
+      "type": "Glace",
+      "rarity": 3,
+      "collection": "base",
+      "hp": 120,
+      "front": null
+    },
+    {
+      "id": "p15",
+      "name": "Pingouin Milliardaire",
+      "type": "Glace",
+      "rarity": 3,
+      "collection": "base",
+      "hp": 120,
+      "front": null
+    },
+    {
+      "id": "p16",
+      "name": "Pingouin Dictateur",
+      "type": "Glace",
+      "rarity": 4,
+      "collection": "base",
+      "hp": 160,
+      "front": null
+    },
+    {
+      "id": "p17",
+      "name": "Dieu Pingouin",
+      "type": "Glace",
+      "rarity": 4,
+      "collection": "base",
+      "hp": 160,
+      "front": null
+    },
+    {
+      "id": "p18",
+      "name": "El Pingouini",
+      "type": "Glace",
+      "rarity": 4,
+      "collection": "base",
+      "hp": 160,
+      "front": null
+    }
+  ],
+  "cardBack": null,
   "boosters": [
     {
       "id": "banquise",
@@ -33,25 +196,25 @@
         {
           "r": 1,
           "on": true,
-          "weight": 28
+          "weight": 25
         },
         {
           "r": 2,
           "on": true,
-          "weight": 9
+          "weight": 10
         },
         {
           "r": 3,
           "on": true,
-          "weight": 2.5
+          "weight": 4
         },
         {
           "r": 4,
           "on": true,
-          "weight": 0.5
+          "weight": 1
         }
       ],
-      "lastMin": 3,
+      "lastMin": 2,
       "front": null,
       "back": null
     }
