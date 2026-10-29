@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "types": [
+    "Glace",
+    "Eau",
+    "Neige",
+    "Aurore",
+    "Abysses",
+    "Foudre"
+  ],
+  "collections": [
+    {
+      "id": "base",
+      "name": "Collection de base"
+    }
+  ],
+  "cards": [],
+  "cardBack": "data/img/card-back-mvtxlchq.webp",
+  "boosters": [
+    {
+      "id": "banquise",
+      "name": "Banquise",
+      "active": true,
+      "count": 5,
+      "collections": [],
+      "types": [],
+      "rarities": [
+        {
+          "r": 0,
+          "on": true,
+          "weight": 60
+        },
+        {
+          "r": 1,
+          "on": true,
+          "weight": 28
+        },
+        {
+          "r": 2,
+          "on": true,
+          "weight": 9
+        },
+        {
+          "r": 3,
+          "on": true,
+          "weight": 2.5
+        },
+        {
+          "r": 4,
+          "on": true,
+          "weight": 0.5
+        }
+      ],
+      "lastMin": 3,
+      "front": null,
+      "back": null
+    }
+  ]
+}
